@@ -1,3 +1,6 @@
+
+<img align="center" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif)"   />
+
 # 💫 About Me:
 🔭 I’m currently a student.<br>🌱 I’m currently learning Dart-Flutter.<br>
 
